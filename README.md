@@ -5,15 +5,11 @@
   
     **Algumas imagens do sistema:**
   
-   **Página de Login:**
  ![image](https://user-images.githubusercontent.com/108235675/213054939-81b0607b-c451-4495-a5e3-df52e22c0fed.png)
 
-  **Página principal:**
 ![image](https://user-images.githubusercontent.com/108235675/213053844-ded5acbf-27f6-4590-9312-d7f30810f598.png)
 
-  **Página de busca/filtro:**
 ![image](https://user-images.githubusercontent.com/108235675/213054604-2c25019f-1023-498e-a1b4-86925c4235aa.png)
 
-**Página de edição e cadastro:**
 ![image](https://user-images.githubusercontent.com/108235675/213054861-838d8c3e-e251-4afd-acba-2169b4dde949.png)
 
